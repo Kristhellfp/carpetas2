@@ -1,0 +1,8 @@
+.bloque_5 {
+    max-width: 45.5rem;
+    height: 20rem;
+    margin: auto;
+ 
+    border: 1px solid black;
+    background-color: rgb(152, 152, 224);
+ }

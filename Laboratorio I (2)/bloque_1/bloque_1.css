@@ -1,0 +1,31 @@
+.bloque_1 {
+   max-width: 37.5rem;
+   height: 20rem;
+   margin: auto;
+}
+
+.bloque_1 h3{ 
+text-align: center;
+}
+
+.bloque_1 div{
+   border: 1px solid black;
+   border-radius: 5px;
+   background-color: rgb(255, 255, 255);
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   font-size: 2rem;
+   font-size: 12px; 
+   padding: 5px 10px; 
+   float: right;
+   position: relative; 
+    top: -45px
+}
+
+.bloque_1 span{
+   float: right; 
+   margin-top: -40px;
+   position: relative; 
+   left: px;
+}
